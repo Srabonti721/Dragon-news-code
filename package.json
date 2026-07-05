@@ -14,6 +14,7 @@
     "date-fns": "^4.4.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
+    "react-marquee-slider": "^1.1.5",
     "react-router": "^8.1.0",
     "tailwindcss": "^4.3.2"
   },
