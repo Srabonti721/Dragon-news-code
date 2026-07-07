@@ -1,4 +1,6 @@
 import React from 'react';
+import FindUs from './FindUs';
+import Qzone from './Qzone';
 
 const RightAside = () => {
     return (
@@ -17,6 +19,8 @@ const RightAside = () => {
   Login with Google
 </button>
             </div>
+            <FindUs></FindUs>
+            <Qzone></Qzone>
         </div>
     );
 };
